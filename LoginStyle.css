@@ -1,0 +1,50 @@
+
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    
+   
+
+}
+input{
+    margin-bottom: 15px;
+    width: 100%;
+    height: 28px;
+    border-radius: 5px;
+    border-color: gray;
+   
+   
+}
+form{
+    padding-left: 10px;
+}
+button{
+    width: 100%;
+    height: 40px;
+    background-color: #1E90FF;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+.box1{
+    padding: 30px;
+    box-shadow: 3px 3px 5px gray;
+    width: 300px;
+
+
+}
+h2{
+    text-align: center;
+    color:gray;
+}
+.box1 a{
+    text-decoration: none;
+    color: gray;
+    font-size: 14px;
+    
+}
+
+.a1 {
+    text-align: center;
+}

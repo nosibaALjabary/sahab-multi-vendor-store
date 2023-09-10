@@ -1,0 +1,228 @@
+.container{
+  
+    margin-right: 500px;
+}
+.nav .navbar ul { 
+    display: flex;
+    padding: 3px;
+   
+}
+.nav .navbar ul li a{
+    text-decoration: none;
+    padding: 5px;
+    color: gray;
+}
+.btns{
+    display: flex;
+}
+.img1{
+    width: 600px;
+    height: 300px;
+
+}
+.c1{
+    display: flex;
+    text-align: right;
+    box-sizing: border-box;
+    font-family: 'stc';
+   
+    
+}
+.c1 .txt_2{
+    font-size: 40px;
+   
+    color: rgb(54, 52, 51); 
+    display: block;
+    text-align: right;
+}
+.c1 .btns  {
+    margin-top:40px;
+    
+}
+.c1 .btns .btn_1 button{
+    margin-right: 250px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    color: rgb(54, 52, 51);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(154, 153, 153);
+    height: 32px;
+    padding: 0px 16px;
+    font-size: 15px;
+    font-family: BlocketSans-Medium, sans-serif;
+  
+    border-radius: 4px;
+    font-family: 'stc';
+    color: rgb(105, 103, 102);
+
+   
+}
+.c1 .btns .btn_2 button{
+    margin-right: 10px;      
+    cursor: pointer;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    color: rgb(54, 52, 51);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(154, 153, 153);
+    height: 32px;
+    padding: 0px 16px;
+    font-size: 15px;
+    font-family: BlocketSans-Medium, sans-serif;
+  
+    border-radius: 4px;
+    font-family: 'stc';
+    color: rgb(105, 103, 102);
+
+}
+.c2{
+    display: flex;
+    text-align: right;
+    box-sizing: border-box;
+    font-family: 'stc';
+    
+}
+.c2 .txt_3{
+    padding-right: 0
+}
+.c2 .txt_3 label{
+    font-family: 'stc';
+    color: rgb(105, 103, 102);
+    font-weight: bold;
+
+}
+
+.c2 .btn_3 button{
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(54, 52, 51);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(154, 153, 153);
+    height: 32px;
+    padding: 0px 16px;
+    font-size: 15px;
+    font-family: BlocketSans-Medium, sans-serif;
+ 
+    border-radius: 4px;
+    margin-right: 400px;
+    margin-bottom: 20px;
+    
+    
+}
+.c3{
+    display: flex;
+    
+}
+.c3 p{
+    color: rgb(105, 103, 102);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    font-weight: bold;
+}
+.c3 span i{
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.dropdown {
+    padding-top: 22px;
+}
+
+.dropdown select{
+    border: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fff;
+    padding-right: 30px;
+    color: #495057;
+
+}
+.accord-img , .images-div img {
+    padding-right: 190px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+.nav-div{
+    display: flex;
+}
+.description{
+    box-shadow: rgb(216 176 142) 0px -4px;
+    padding: 32px 24px;
+    border-radius: 2px 2px 4px 4px;
+    margin-bottom: 16px;
+    border-width: 0px 1px 1px;
+    border-color: rgb(205, 204, 204);
+    border-style: solid;
+    margin-top: 20px;
+
+    margin-left: 450px;
+
+}
+
+.desc-color , .desc-color p{
+    color: rgb(29, 28, 28);
+    font-size: 1.25rem;
+    margin-top: 1px;
+
+
+}
+
+h5 , p{
+    font-size: 17px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.5;
+    margin: 1px;
+}
+
+.attributes {
+    box-shadow: rgb(255 208 7) 0px -4px;
+
+    padding: 32px 24px;
+    border-radius: 2px 2px 4px 4px;
+    margin-bottom: 16px;
+    border-width: 0px 1px 1px;
+    border-color: rgb(205, 204, 204);
+    border-style: solid;
+    margin-top: 20px;
+
+    margin-left: 450px;
+}
+
+
+
+.table thead th {
+    /* vertical-align: bottom; */
+    border-bottom: 2px solid #e9ecef;
+}
+
+.table td, .table th {
+    padding: 12px;
+    border-top: 1px solid #e9ecef;
+}
+
+th {
+    text-align: inherit;
+    /* font-weight: bold; */
+    /* text-align: -internal-center; */
+}
+
+table {
+    /* border-collapse: collapse; */
+
+    
+    /* border-collapse: separate; */
+    text-indent: initial;
+    border-spacing: 2px;
+}
