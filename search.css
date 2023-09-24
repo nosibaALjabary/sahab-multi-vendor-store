@@ -75,7 +75,7 @@
     color:#495057;
     font-weight: bold;
 }
-.fa-heart{
+.heart{
     position: absolute;
     left: 23px;
     top: 16px;
@@ -108,6 +108,9 @@
 
 .bg{
     background-color: #dfdede;
+}
+#to,.large_price,.less_price,.t_gray,.number-items{
+    color: rgb(105, 103, 102);
 }
 .btn_s{
     background: #7e57c6;
