@@ -1,0 +1,66 @@
+.headerLine{
+    margin: 0px;
+    height: 8px;
+    background: -webkit-linear-gradient(left, rgba(255,208,7) 0%, rgba(255,208,7) 12.5%,rgba(192,156,221,1) 62.5%, rgba(192,156,221,1) 75%);
+}
+.items .breadcrumb{
+    background-color: white;
+    padding-right: 0;
+    list-style: none;
+}
+.items .breadcrumb a{
+    text-decoration: none;
+}
+.items .breadcrumb .breadcrumb-item,.items .breadcrumb .breadcrumb-item a {
+    color: rgb(105, 103, 102);   
+    font-weight: bold;
+}
+.description{
+    box-shadow: rgb(216 176 142) 0px -4px;
+    border-radius: 2px 2px 4px 4px;
+}
+.specification{
+    box-shadow: rgb(255 208 7) 0px -4px;
+    border-radius: 2px 2px 4px 4px;
+
+}
+.additional-description{
+    box-shadow: rgb(192 156 221) 0px -4px;
+    border-radius: 2px 2px 4px 4px;
+
+}
+.items_2{
+    background-color: #f9f7f6;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 6px rgb(192 192 192);
+}
+.price,.discount,.original-price{
+    background-color: #f9f7f6;
+}
+.card-title{
+    background-color: #ddd;
+}
+.btn_s{
+    background: #7e57c6;
+    color: white;
+    cursor: pointer;
+}
+
+ .fac_icon{ 
+    background: #3c5a99;
+    color: #fff;
+   
+}
+.insta_icon {
+    background: #815dc7;
+    color: #fff;
+}
+.i{
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    
+}
